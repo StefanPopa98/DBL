@@ -1,0 +1,147 @@
+{
+      "name": "root",
+      "children": [
+        {
+          "name": "First Top",
+          "children": [
+            {
+              "name": "First child",
+              "children": [
+                {
+                  "name": "value1",
+                  "size": "320"
+                },
+                {
+                  "name": "value2",
+                  "size": "320"
+                },
+                {
+                  "name": "value3",
+                  "size": "320"
+                },
+                {
+                  "name": "value4",
+                  "size": "320"
+                }
+              ]
+            },
+            {
+              "name": "Second child",
+              "children": [
+                {
+                  "name": "value1",
+                  "size": "320"
+                },
+                {
+                  "name": "value2",
+                  "size": "320"
+                },
+                {
+                  "name": "value3",
+                  "size": "320"
+                },
+                {
+                  "name": "value4",
+                  "size": "320"
+                }
+              ]
+            },
+
+          ]
+        },
+        {
+          "name": "Second Top",
+          "children": [
+            {
+              "name": "First child",
+              "children": [
+                {
+                  "name": "value1",
+                  "size": "320"
+                },
+                {
+                  "name": "value2",
+                  "size": "320"
+                },
+                {
+                  "name": "value3",
+                  "size": "320"
+                },
+                {
+                  "name": "value4",
+                  "size": "320"
+                }
+              ]
+            },
+            {
+              "name": "Second child",
+              "children": [
+                {
+                  "name": "value1",
+                  "size": "320"
+                },
+                {
+                  "name": "value2",
+                  "size": "320"
+                },
+                {
+                  "name": "value3",
+                  "size": "320"
+                },
+                {
+                  "name": "value4",
+                  "size": "320"
+                }
+              ]
+            },
+          ]
+        },
+        {
+          "name": "Third Top",
+          "children": [
+            {
+              "name": "First child",
+              "children": [
+                {
+                  "name": "value1",
+                  "size": "320"
+                },
+                {
+                  "name": "value2",
+                  "size": "320"
+                },
+                {
+                  "name": "value3",
+                  "size": "320"
+                },
+                {
+                  "name": "value4",
+                  "size": "320"
+                }
+              ]
+            },
+            {
+              "name": "Second child",
+              "children": [
+                {
+                  "name": "value1",
+                  "size": "320"
+                },
+                {
+                  "name": "value2",
+                  "size": "320"
+                },
+                {
+                  "name": "value3",
+                  "size": "320"
+                },
+                {
+                  "name": "value4",
+                  "size": "320"
+                }
+              ]
+            },
+          ]
+        }
+      ]
+    }

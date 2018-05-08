@@ -1,0 +1,27 @@
+{
+ "name": "Max",
+ "children": [
+  {
+	"name": "Sylvia",
+	"children": [
+		{ "name": "Craig", "size": 25},
+		{ "name": "Robin", "size": 25},
+		{ "name": "Anna", "size": 25}
+	]
+   },
+   {
+	"name": "David",
+	"children": [
+		{"name": "Jeff", "size": 25},
+		{"name": "Buffy", "size": 25}
+	   ]
+   },
+   {
+  "name":"Mr X",
+  "children": [
+		{"name": "Criss", "size": 25},
+		{"name": "Ada", "size": 25}
+	   ]
+    }
+    ]   
+}
