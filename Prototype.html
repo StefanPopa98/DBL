@@ -12,6 +12,8 @@ circle {
 circle:hover {
   stroke: #000;
   stroke-width: 1.5px;
+  fill: #e5cc97;
+  fill-opacity: .5;
 }
 
 .node:hover {
@@ -27,6 +29,7 @@ circle:hover {
 .leaf circle:hover {
   stroke: #000;
   stroke-width: 1.5px;
+  fill: #ff866b;
 }
 
 text {
@@ -59,7 +62,7 @@ var pack = d3.pack()
 	.padding(2);
 	
 
-d3.json("flare.json", function(error, root) {
+d3.json("occupation.json", function(error, root) {
   
 	if (error) throw error;
 
