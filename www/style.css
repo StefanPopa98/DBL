@@ -1,0 +1,50 @@
+body {
+    background-image: url("./atlas.jpg");
+    background-color :#cccccc;
+}
+
+svg {
+	background-color :#f2f2f2;
+	border-radius: 25px;
+}
+.explanation {
+	border-radius: 5px;
+	background-color :#f2f2f2;
+	padding : 5px;
+}
+nav {
+   margin: 20px; 
+}
+.dropdown-toggle {
+   margin: 20px;
+}
+
+circle {
+  fill: #7d3bdb;
+  fill-opacity: .25;
+  stroke: #12474c;
+  stroke-width: 1px;
+}
+circle:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+  fill: #e5cc97;
+  fill-opacity: .5;
+}
+.node:hover {
+  stroke: #000;
+  stroke-width: 0.5px;
+}
+.leaf circle {
+  fill: #229ea3;
+  fill-opacity: 1;
+}
+.leaf circle:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+  fill: #ff866b;
+}
+text {
+  font: 5px sans-serif;
+  text-anchor: middle;
+}

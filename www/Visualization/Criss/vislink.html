@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+circle {
+  fill: #3dc9ce;
+  fill-opacity: .25;
+  stroke: #12474c;
+  stroke-width: 1px;
+}
+
+circle:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node:hover {
+  stroke: #000;
+  stroke-width: 1px;
+}
+
+.leaf circle {
+  fill: #229ea3;
+  fill-opacity: 1;
+}
+
+.leaf circle:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+</style>
+<div class="zoom"></div>
+<svg width="960" height="960"  id="svg1"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script type="text/jaascript" src="./vis/vis.js"></script>
